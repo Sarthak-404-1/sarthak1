@@ -38,4 +38,4 @@ A cybersecurity demo system using ESP32.
 ## 📫 Contact
 
 - 📧 Email: sarthaksingh3020@gmail.com 
-- 🔗 LinkedIn: your-linkedin  
+- 🔗 LinkedIn: https://www.linkedin.com/in/sarthak-singh-9304aa342/
