@@ -20,7 +20,7 @@ A cybersecurity demo system using ESP32.
 ---
 
 ## 📄 Resume
-[Click here to view my resume](https://github.com/Sarthak-404-1/resume2/blob/main/Sarthak_Singh_Resume.pdf)
+[Click here to view my resume](https://github.com/Sarthak-404-1/resume2/blob/main/Sarthak_Singh_Resume.pdf.jpeg)
 
 ---
 
